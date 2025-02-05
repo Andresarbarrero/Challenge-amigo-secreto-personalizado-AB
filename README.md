@@ -1,6 +1,6 @@
 # Challenge Amigo Secreto - Personalizado AB  
 
-![Amigo Secreto Banner](assets/amigosecreto-banner.png)
+![Amigo Secreto Banner](assets/amigosecreto-banner2.png)
 
 ## Insignias  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)  
